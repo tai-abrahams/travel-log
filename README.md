@@ -10,7 +10,7 @@ mapboxApiAccessToken and mapStyle.
 Access key and mapStyle can be found once a MapBox account has been created where the access token will be visible at the bottom of the page. Mapstyle token can be found on
 Mapbox under Tools & resources, where Design in mapbox studio is selected to select a visual design theme and a code is then generated.
 
-.ENV:
+<h1>.ENV FILE:</h1>
 
 REACT_APP_MAPBOX_MAPSTYLE = Mapbox mapstyle token
 REACT_APP_MAPBOX_ACCESS_TOKEN = Mapbox access token
