@@ -51,8 +51,8 @@ const showAddMarkerPopup = (event)=>{
   return (
     <ReactMapGL
       {...viewport}
-      mapStyle={'mapbox://styles/taiabrahams/ckduijhd50mly19pamnjba28v'}
-      mapboxApiAccessToken={process.env.REACT_APP_TOKEN}
+      mapStyle={process.env.REACT_APP_MAPBOX_MAPSTYLE}
+      mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_ACCESS_TOKEN}
       onViewportChange={nextViewport => setViewport(nextViewport)}
       onDblClick={showAddMarkerPopup}
     >
