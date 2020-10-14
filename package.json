@@ -1,0 +1,19 @@
+{
+  "name": "travel-log",
+  "version": "1.0.0",
+  "description": "Travel Log app using React-Map-GL",
+  "main": "client/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tai-abrahams/travel-log.git"
+  },
+  "author": "Tai Abrahams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tai-abrahams/travel-log/issues"
+  },
+  "homepage": "https://github.com/tai-abrahams/travel-log#readme"
+}
