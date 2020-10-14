@@ -12,8 +12,8 @@ Mapbox under Tools & resources, where Design in mapbox studio is selected to sel
 
 <h1>.ENV FILE:</h1>
 
-<h4>REACT_APP_MAPBOX_MAPSTYLE</h4> = Mapbox mapstyle token<br />
-<h4>REACT_APP_MAPBOX_ACCESS_TOKEN</h4> = Mapbox access token
+<h4>REACT_APP_MAPBOX_MAPSTYLE=</h4> Mapbox mapstyle token<br />
+<h4>REACT_APP_MAPBOX_ACCESS_TOKEN=</h4> Mapbox access token
 
 
 <h1>SERVER SIDE ENV FILE</h1>
