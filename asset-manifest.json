@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tai-abrahams/travel-logstatic/css/main.b0595749.chunk.css",
-    "main.js": "/tai-abrahams/travel-logstatic/js/main.d0a62cee.chunk.js",
-    "main.js.map": "/tai-abrahams/travel-logstatic/js/main.d0a62cee.chunk.js.map",
-    "runtime-main.js": "/tai-abrahams/travel-logstatic/js/runtime-main.bd2cecf1.js",
-    "runtime-main.js.map": "/tai-abrahams/travel-logstatic/js/runtime-main.bd2cecf1.js.map",
-    "static/js/2.7fd48769.chunk.js": "/tai-abrahams/travel-logstatic/js/2.7fd48769.chunk.js",
-    "static/js/2.7fd48769.chunk.js.map": "/tai-abrahams/travel-logstatic/js/2.7fd48769.chunk.js.map",
-    "index.html": "/tai-abrahams/travel-logindex.html",
-    "precache-manifest.7f32c0857e1c2867ee5a494d5d86cea8.js": "/tai-abrahams/travel-logprecache-manifest.7f32c0857e1c2867ee5a494d5d86cea8.js",
-    "service-worker.js": "/tai-abrahams/travel-logservice-worker.js",
-    "static/css/main.b0595749.chunk.css.map": "/tai-abrahams/travel-logstatic/css/main.b0595749.chunk.css.map",
-    "static/js/2.7fd48769.chunk.js.LICENSE.txt": "/tai-abrahams/travel-logstatic/js/2.7fd48769.chunk.js.LICENSE.txt"
+    "main.css": "/travel-log/static/css/main.b0595749.chunk.css",
+    "main.js": "/travel-log/static/js/main.d0a62cee.chunk.js",
+    "main.js.map": "/travel-log/static/js/main.d0a62cee.chunk.js.map",
+    "runtime-main.js": "/travel-log/static/js/runtime-main.1ce35ce6.js",
+    "runtime-main.js.map": "/travel-log/static/js/runtime-main.1ce35ce6.js.map",
+    "static/js/2.6c3e3722.chunk.js": "/travel-log/static/js/2.6c3e3722.chunk.js",
+    "static/js/2.6c3e3722.chunk.js.map": "/travel-log/static/js/2.6c3e3722.chunk.js.map",
+    "index.html": "/travel-log/index.html",
+    "precache-manifest.75ab3c8980afc916e78061abc82c6363.js": "/travel-log/precache-manifest.75ab3c8980afc916e78061abc82c6363.js",
+    "service-worker.js": "/travel-log/service-worker.js",
+    "static/css/main.b0595749.chunk.css.map": "/travel-log/static/css/main.b0595749.chunk.css.map",
+    "static/js/2.6c3e3722.chunk.js.LICENSE.txt": "/travel-log/static/js/2.6c3e3722.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd2cecf1.js",
-    "static/js/2.7fd48769.chunk.js",
+    "static/js/runtime-main.1ce35ce6.js",
+    "static/js/2.6c3e3722.chunk.js",
     "static/css/main.b0595749.chunk.css",
     "static/js/main.d0a62cee.chunk.js"
   ]
