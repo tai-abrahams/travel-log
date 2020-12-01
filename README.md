@@ -14,7 +14,16 @@ Mapbox under Tools & resources, where Design in mapbox studio is selected to sel
 
 <h4>REACT_APP_MAPBOX_MAPSTYLE=</h4> Mapbox mapstyle token<br />
 <h4>REACT_APP_MAPBOX_ACCESS_TOKEN=</h4> Mapbox access token
+<h4>REACT_APP_API_URL=</h4>https://www.tai-abrahams.github.io/travel-log-server/api/logs
 
 
 <h1>SERVER SIDE ENV FILE</h1>
-Used mongodb to store the map location latitude and longitude points, this is a local mongodb url instead of the atlas cloud link.
+Used mongodb to store the map location latitude and longitude points, this is a mongodb cloud url instead of the atlas cloud link.
+
+With hidden process env credentials:
+
+  process.env.CORS_ORIGIN
+  process.env.PORT
+  process.env.DATABASE_SS_URL
+
+
